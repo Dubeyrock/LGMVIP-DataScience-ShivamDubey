@@ -1,6 +1,17 @@
 # LGMVIP-DataScience-ShivamDubey
 Lets Grow More Virtual Internship Program(LGMVIP) Beginner level to Advance level tasks as a Data Science Intern October 2023
 
+
+
+                             **Beginner Level**                      
+
+
+TASK-2
+Stock Market Prediction And Forecasting Using Stacked LSTM
+
+Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+
                                 **Intermediate Level**    
 
 
@@ -19,3 +30,11 @@ Next Word Prediction
 Using Tensorflow and NLTK library train a RNN, to predict the next word.
 
 Dataset Link : https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
+
+
+TASK-9
+Handwritten equation solver using CNN
+
+Mathematical equation solver using character and symbol recognition using image processing and CNN.
+
+Dataset Link : https://www.kaggle.com/xainano/handwrittenmathsymbols
